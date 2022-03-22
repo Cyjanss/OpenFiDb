@@ -1,0 +1,3 @@
+[submodule "ghidra-fidb-repo"]
+	path = ghidra-fidb-repo
+	url = https://github.com/Cyjanss/ghidra-fidb-repo
